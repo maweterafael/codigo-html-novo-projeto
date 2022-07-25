@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: plum;
+}
+header {
+    background-color: gray
+ }
+ button{
+    border-radius: 0%;
+    background-size: cover;
+    text-align: right;
+    cursor: pointer;
+ }
+ .foto__imagem {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+    font-weight: normal;
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    background-color: blueviolet;
+ }
+ .p {
+    text-decoration: underline;
+ }
+ h3 {
+ background-color: grey;
+ }
+ .fundo__da__tela {
+    width: 150px;
+    height: 150px;
+    background-image: url()
+ }
+
+ a {
+    text-decoration: none;
+    padding-top: 1%;
+   border: 1px solid white;
+    min-width: 3px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   transition: 5s, ease-in-out
+ }
+ a:hover {
+background-color: white;
+ }
