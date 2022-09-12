@@ -1,0 +1,22 @@
+.Contatos {
+  display: grid;
+  grid-template-columns: 60% auto;
+  width: 100%;
+  height: auto;
+  padding-top: 50px;
+}
+
+.paragrafos {
+  padding-left: 30%;
+  font-weight: bold;
+}
+
+#Formularios {
+  width: 250px;
+  background-color: #4097ca;
+  box-shadow: 8px 8px 8px rgb(70, 70, 70);
+  border-radius: 10px;
+  padding: 40px 40px;
+  margin: 0px;
+
+}
